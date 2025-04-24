@@ -33,5 +33,9 @@ One product can belong to only one category.
 One category can have multiple products.
 So this is a Many-to-one relationship, showing that many products can belong to a single category.
 
+
+
 ![image_alt](https://github.com/ambika1us/SQL_T3/blob/ef6d0eb2bbefda7566bf9128704e092facac3895/Database%20Model.png)
 
+
+![image_alt](https://github.com/ambika1us/SQL_T3/blob/e2053b0b10b27aab6d34f38d124ed16cfc2d556f/ER%20Diagram.png)
